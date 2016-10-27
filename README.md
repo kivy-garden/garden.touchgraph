@@ -1,3 +1,5 @@
+![screenshot](https://raw.githubusercontent.com/wackazong/garden.touchgraph/master/screenshot.png)
+
 # Touchgraph
 
 TouchGraph is a Kivy widget for displaying a 2D graph based composed of

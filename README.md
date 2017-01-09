@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/wackazong/garden.touchgraph/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/wackazong/garden.touchgraph/master/screenshot_big.png)
 
 # Touchgraph
 
